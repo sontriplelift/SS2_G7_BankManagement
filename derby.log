@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 14 23:11:39 ICT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.3.0 - (1405108): instance a816c00e-017b-e514-0542-000006e11788 
+on database directory C:\Users\Dell\Desktop\project-ss207-g7\SS2_G7_BankManagement\data\domainds  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d5380c2 
+Loaded from file:/C:/Users/Dell/Desktop/project-ss207-g7/SS2_G7_BankManagement/libs/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=16.0.1+9-24
+user.dir=C:\Users\Dell\Desktop\project-ss207-g7\SS2_G7_BankManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
